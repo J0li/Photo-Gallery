@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    position: static;
+}
+
+.gallery {
+    padding: 10px;
+    border: 1px solid black;
+}
+h2{
+    font-family: cursive;
+    font-style: italic;
+    font-size: 40px;
+    color: rgb(250, 174, 61);
+    margin-bottom: 5px;
+}
+
+.btn-add{
+    background: rgb(238, 178, 89);
+}
+
+.btn-add:hover{
+    background: rgb(224, 125, 32);
+    color: whitesmoke;
+}
